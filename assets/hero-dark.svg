@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="210" viewBox="0 0 880 210" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="880" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0E1116"/>
+      <stop offset="1" stop-color="#161B23"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="44" y1="70" x2="100" y2="126" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F0B429"/>
+      <stop offset="1" stop-color="#B45309"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="120" y1="0" x2="290" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F0B429"/>
+      <stop offset="1" stop-color="#F0B429" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#F0B429" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#F0B429" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1.4" cy="1.4" r="1.1" fill="#FFFFFF" fill-opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <rect width="880" height="210" rx="14" fill="url(#bg)"/>
+  <rect width="880" height="210" rx="14" fill="url(#dots)"/>
+  <circle cx="762" cy="26" r="240" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="879" height="209" rx="13.5" stroke="#FFFFFF" stroke-opacity="0.10"/>
+
+  <rect x="44" y="70" width="56" height="56" rx="16" fill="url(#mark)"/>
+  <text x="72" y="106" text-anchor="middle" font-family="ui-sans-serif,-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#1C1917" letter-spacing="0.5">AB</text>
+
+  <text x="118" y="100" font-family="ui-sans-serif,-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="40" font-weight="700" fill="#E6EDF3" letter-spacing="-0.8">ABobb414</text>
+  <text x="120" y="126" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="500" fill="#8B949E" letter-spacing="4">JAVA · FULL-STACK · STATIC WEB</text>
+  <rect x="120" y="142" width="170" height="2" fill="url(#rule)"/>
+
+  <rect x="650" y="79" width="188" height="38" rx="19" fill="#161B22" stroke="#30363D"/>
+  <circle cx="672" cy="98" r="4.5" fill="#3FB950"/>
+  <text x="688" y="103" font-family="ui-sans-serif,-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">3 个站点运行中</text>
+</svg>
