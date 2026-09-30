@@ -2,10 +2,10 @@
 
 # 你好，我是 ABobb414 👋
 
-**计算机科学毕业 · Java 全栈 / 纯静态前端 · 3 个线上站点在跑**
+计算机科学毕业，写 Java 全栈，也写不依赖任何构建工具的纯静态前端。
 
-信奉「零构建、零依赖」的克制做法 —— 一个起始页、一块天气看板、一个 AI 导购，
-都是打开就能用、部署就完事的东西。
+东西不多，但都在线上跑着 —— 一个起始页、一块天气看板、一个 AI 导购。
+我对「做完」的定义很朴素：**打开能用、README 写清楚，才算完。**
 
 [![Repos](https://img.shields.io/badge/原创项目-7-8b5cf6?style=flat-square)](https://github.com/abobb414?tab=repositories)
 [![Live](https://img.shields.io/badge/线上站点-3-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white)](#线上项目)
@@ -23,6 +23,9 @@
 
 <img src="https://streak-stats.demolab.com?user=abobb414&hide_border=true" alt="GitHub Streak" />
 
+**写完 → 推上线 → 写清 README → 下一个。**
+过去一年的 162 次 commit，基本都是这个循环。
+
 </div>
 
 ## 线上项目
@@ -34,7 +37,7 @@
 
 ## 关于我
 
-- 毕业后继续写代码：把做过的项目一个个推上线，README 里的数字全部实测
+- 毕业后继续写代码：做出来的东西不躺在硬盘里，一个个推上线
 - 折腾过：NAS、软路由、iOS 快捷指令、代理分流
 - 原则：能零构建就不引依赖
 
