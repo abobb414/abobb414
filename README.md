@@ -44,7 +44,7 @@
 |---|---|
 | **GitHub** | [@abobb414](https://github.com/abobb414) |
 | **Website** | [abobb.com](https://abobb.com) |
-| **Mail** | [abo_bb@qq.com](mailto:abo_bb@qq.com) |
+| **Mail** | [alistairbo@abobb.com](mailto:alistairbo@abobb.com) |
 
 ---
 
