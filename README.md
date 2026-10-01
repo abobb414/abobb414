@@ -1,17 +1,15 @@
-<div align="left">
-
-# ABobb414
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abobb414/abobb414/main/assets/hero-dark.svg" />
+  <img src="https://raw.githubusercontent.com/abobb414/abobb414/main/assets/hero-light.svg" width="100%" alt="ABobb414 — Java full-stack, zero-build static web">
+</picture>
 
 **计算机科学毕业 · Java 全栈 / 零构建静态前端 · 3 个站点在线上跑**
 
-不引任何构建工具写前端，不写「应该可以」这类没验过的结论。
-每个项目 README 里的数字，都是跑出来的。
+不引任何构建工具写前端，不写「应该可以」这类没验过的结论。每个项目 README 里的数字，都是跑出来的。
 
 <a href="https://github.com/abobb414?tab=repositories"><img src="https://img.shields.io/badge/repos-8-44403C?style=flat-square&logo=github&logoColor=white" alt="Repos"></a>
-<a href="https://github.com/abobb414/abobb414/blob/main/README.md"><img src="https://img.shields.io/badge/status-updating-B45309?style=flat-square" alt="Status"></a>
+<a href="https://github.com/abobb414/abobb414/commits/main"><img src="https://img.shields.io/badge/status-updating-B45309?style=flat-square" alt="Status"></a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=abobb414.abobb414" alt="Profile views">
-
-</div>
 
 ---
 
@@ -36,26 +34,13 @@
 
 ### GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abobb414&show_icons=true&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=e7e5e4&text_color=a1a1aa&icon_color=fbbf24" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=abobb414&show_icons=true&hide_border=true&hide_rank=true&bg_color=ffffff&title_color=1c1917&text_color=57534e&icon_color=b45309" alt="GitHub stats">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abobb414&layout=compact&hide_border=true&bg_color=0d1117&title_color=e7e5e4&text_color=a1a1aa" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abobb414&layout=compact&hide_border=true&bg_color=ffffff&title_color=1c1917&text_color=57534e" alt="Top languages">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abobb414&show_icons=true&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=e7e5e4&text_color=a1a1aa&icon_color=fbbf24" /><img height="150" src="https://github-readme-stats.vercel.app/api?username=abobb414&show_icons=true&hide_border=true&hide_rank=true&bg_color=ffffff&title_color=1c1917&text_color=57534e&icon_color=b45309" alt="GitHub stats"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abobb414&layout=compact&hide_border=true&bg_color=0d1117&title_color=e7e5e4&text_color=a1a1aa" /><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abobb414&layout=compact&hide_border=true&bg_color=ffffff&title_color=1c1917&text_color=57534e" alt="Top languages"></picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abobb414&hide_border=true&background=0d1117&border=0d1117&stroke=21262d&ring=fbbf24&fire=fbbf24&currStreakLabel=e7e5e4&sideLabels=9198a1&dates=6e7681" />
-  <img src="https://streak-stats.demolab.com?user=abobb414&hide_border=true&background=ffffff&border=ffffff&stroke=e7e5e4&ring=b45309&fire=b45309&currStreakLabel=57534e&sideLabels=8a857c&dates=a1a1aa" alt="Streak">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abobb414&hide_border=true&background=0d1117&border=0d1117&stroke=21262d&ring=fbbf24&fire=fbbf24&currStreakLabel=e7e5e4&sideLabels=9198a1&dates=6e7681" /><img src="https://streak-stats.demolab.com?user=abobb414&hide_border=true&background=ffffff&border=ffffff&stroke=e7e5e4&ring=b45309&fire=b45309&currStreakLabel=57534e&sideLabels=8a857c&dates=a1a1aa" alt="Streak"></picture>
 
 ### Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abobb414/abobb414/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/abobb414/abobb414/output/github-contribution-grid-snake.svg" alt="Contribution grid">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abobb414/abobb414/output/github-contribution-grid-snake-dark.svg" /><img src="https://raw.githubusercontent.com/abobb414/abobb414/output/github-contribution-grid-snake.svg" alt="Contribution grid"></picture>
 
 ### How to Reach Me
 
@@ -67,4 +52,4 @@
 
 ---
 
-**If any of these projects helped you, a star is appreciated.**
+If any of these projects helped you, a star is appreciated.
