@@ -17,7 +17,7 @@ No guesswork or unverified assumptions — every metric and figure in my reposit
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Stack | Description |
 |---|---|---|
@@ -25,7 +25,7 @@ No guesswork or unverified assumptions — every metric and figure in my reposit
 | **[weather.abobb.com](https://weather.abobb.com)** | Canvas API · Caiyun Weather | Frosted-glass weather dashboard powered by 3-layer frame-by-frame HTML5 Canvas rendering & zero-backend JSONP CORS handling. |
 | **[retail.abobb.site](https://retail.abobb.site)** | TypeScript · LLM Agent | Conversational retail assistant transforming natural language shopping intent into instant, checkout-ready interactive product cards. |
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Category | Tools & Technologies |
 |---|---|
@@ -35,7 +35,7 @@ No guesswork or unverified assumptions — every metric and figure in my reposit
 | **Infra & DevOps** | ![Docker](https://img.shields.io/badge/-Docker-44403C?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-44403C?style=flat-square&logo=linux&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-44403C?style=flat-square&logo=nginx&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-44403C?style=flat-square&logo=cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-44403C?style=flat-square&logo=vercel&logoColor=white) |
 | **Homelab & Network** | ![Synology NAS](https://img.shields.io/badge/-Synology_NAS-78716C?style=flat-square&logo=synology&logoColor=white) ![OpenWrt](https://img.shields.io/badge/-OpenWrt-78716C?style=flat-square&logo=openwrt&logoColor=white) ![iOS Shortcuts](https://img.shields.io/badge/-iOS_Shortcuts-78716C?style=flat-square&logo=apple&logoColor=white) ![Proxy Routing](https://img.shields.io/badge/-Proxy_Routing-78716C?style=flat-square&logo=clash&logoColor=white) |
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <div align="center">
   <picture>
@@ -53,7 +53,7 @@ No guesswork or unverified assumptions — every metric and figure in my reposit
   </picture>
 </div>
 
-### 🐍 Contribution Activity
+### Contribution Activity
 
 <div align="center">
   <picture>
@@ -62,7 +62,7 @@ No guesswork or unverified assumptions — every metric and figure in my reposit
   </picture>
 </div>
 
-### 📬 Connect with Me
+### Connect with Me
 
 <div align="center">
   <a href="https://abobb.com" target="_blank"><img src="https://img.shields.io/badge/Website-abobb.com-44403C?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
