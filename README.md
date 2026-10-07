@@ -48,7 +48,7 @@ No guesswork or unverified assumptions — every metric and figure in my reposit
   </picture>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abobb414&hide_border=true&background=0d1117&border=0d1117&stroke=21262d&ring=fbbf24&fire=fbbf24&currStreakLabel=e7e5e4&sideLabels=9198a1&dates=6e7681" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abobb414&hide_border=true&background=0d1117&border=0d1117&stroke=21262d&ring=fbbf24&fire=fbbf24&currStreakLabel=e7e5e4&sideLabels=9198a1&dates=6e7681&sideNums=e7e5e4&currStreakNum=fbbf24" />
     <img height="165" src="https://streak-stats.demolab.com?user=abobb414&hide_border=true&background=ffffff&border=ffffff&stroke=e7e5e4&ring=b45309&fire=b45309&currStreakLabel=57534e&sideLabels=8a857c&dates=a1a1aa" alt="GitHub streak" />
   </picture>
 </div>
